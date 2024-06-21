@@ -4,9 +4,9 @@
     width="300"
 />
 </p>
-<div align="center">
-    [PODCAST](https://github.com/SilvaViniciusw/podcast-by-IA/blame/main/assets/PODCAST.mp4)
-</div>
+
+- [PODCAST](https://github.com/SilvaViniciusw/podcast-by-IA/blame/main/assets/PODCAST.mp4/)
+
 
 # Projeto Podcast Gerado por I.A.s
 
