@@ -5,7 +5,7 @@
 />
 </p>
 <div align="center">
-    [PODCAST](https://github.com/SilvaViniciusw/podcast-by-IA/blame/main/assets/PODCAST.mp4")
+    [PODCAST](https://github.com/SilvaViniciusw/podcast-by-IA/blame/main/assets/PODCAST.mp4)
 </div>
 
 # Projeto Podcast Gerado por I.A.s
